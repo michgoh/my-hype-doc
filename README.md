@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 My Hype Doc
+🚀 My Hype Doc (The future of resumes?????) 
 </h1>
 
 Tracking accomplishments, wins, resources and growth over time.
@@ -18,13 +18,11 @@ Month | ✨ Accomplishments
 📅 Present
 Year | ✨ Accomplishments
 ------------ | -------------
-4 | 🚀 Launched new reporting workflow that reduced manual work by 30%
-3 | 🤝 Led cross-team collaboration to improve documentation
-2 | 🆕 On top of WFA, created and administered the SOP for the company’s Domestic policy, processing ~800 employee requests. 
-  | 🧮 Built a WFA calculator to help the team and employee plan for the trip to ensure compliance within as 12 month rolling period. 
-  | 🧠 Join CodeBlock and learned Javascript (completed the CodeAcademy course) and build a project with mentor 
+4 | 🆕 International mobility and immigration <br>🆕 Co-led operations (team, vendor, project, program management) <br> 🥇 Equus Superuser (Admin certified) <br>💰 Budget and invoicing management <br>🤖 AI projects: ❗Saved 2000+ hours <br> 1) WFA eligibility check 2) Sending approvals 3) Sending reminders 4) Self-service global mobility compensation estimator ⏲️Saved 2000+ hours   
+3 | 🆕 Immigration is now on the plate. <br> 🧰 Built a Location Tool for recruiters to determine Worday work locations based on cities. <br>🧠 Joined Canada's Relocation Mentorship program 
+2 | 🆕 On top of WFA, created and administered the SOP for the company’s Domestic policy, processing ~800 employee requests. <br>🧮 Built a WFA calculator for the team and employees to plan their trips and stay compliance within as 12 month rolling period. <br>🧠 Join CodeBlock and learned Javascript (completed the CodeAcademy course) and build a project with mentor 
 1 | ✈️ Created and administered the SOP for the company’s Work-From-Anywhere policy, processing ~2,000 employee requests and ensuring consistent policy compliance across the organization.
-🚀 Reached career goal to experience the corporate side of Global Mobility 
+  <br>| 🚀 Reached career goal to the corporate side of Global Mobility and beyonddd! 
 
 ---
  
