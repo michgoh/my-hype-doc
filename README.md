@@ -1,8 +1,8 @@
 <h1 align="center">
-🚀 Career Hype Doc
+🚀 My Hype Doc
 </h1>
 
-Tracking accomplishments, wins, and growth over time.
+Tracking accomplishments, wins, resources and growth over time.
 
 ---
 
