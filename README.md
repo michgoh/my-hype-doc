@@ -23,10 +23,15 @@ Year | ✨ Accomplishments
 2 | 🆕 On top of WFA, created and administered the SOP for the company’s Domestic policy, processing ~800 employee requests. <br>🧮 Built a WFA calculator for the team and employees to plan their trips and stay compliance within as 12 month rolling period. <br>🧠 Join CodeBlock and learned Javascript (completed CodeAcademy course) and build a project with mentor  <br> 📖 Attended Canada Employee Relocation Council (CERC) Annual Conference (Toronto) and joined the Mentorship program <br> 💻 Google Apps Script
 1 | ✈️ Created and administered the SOP for the company’s Work-From-Anywhere policy, processing ~2,000 employee requests and ensuring consistent policy compliance across the organization. <br> 💻 Mac OS, Google Workspace
 
+📣
+“Thanks to Michelle for making my recent transfer request incredibly smooth. Michelle was highly responsive and clear about next steps, which reduced uncertainty and made the experience unexpectedly seamless. Her communication and ownership had a direct impact on how efficiently everything moved forward - another sincere thanks for the support!”
+<br>
+📣 “Quick note to say how much I have enjoyed being able to work overseas this week. I very much appreciate the flexibility this program creates, it’s a great perk. The process to apply was simple and internal resources explaining how the program works are great. A big thank-you to you and the team”.  
+  
 ---
 ## 💸Paypal - Global Mobility Coordinator 
 📅 Dec 2021 - Feb 2022
-Month | ✨ Accomplishments
------------- | -------------
-<br>| <br> 💻 Workday, Aires, Visio 
+
+✨ Accomplishments
+<br>| 💻 Workday, Aires, Visio 
 <br>| 🚀 Reached career goal to the corporate side of Global Mobility and beyonddd! 
