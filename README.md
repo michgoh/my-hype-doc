@@ -11,7 +11,7 @@ Tracking accomplishments, wins, resources and growth over time.
 
 Month | ✨ Accomplishments
 ------------ | -------------
-1 | ⏲️ Work in progress 
+1 | ⏲️ Global Mobility Intelligence Dashboard (https://glomointel.lovable.app) 
 
 ---
 ## 🔲 Block (Square) - Global Mobility, Immigration & Benefits Partner <br> (Total Rewards & People Operations) 
