@@ -6,11 +6,8 @@ Tracking accomplishments, wins, resources and growth over time.
 
 ---
 
-## 🟢 Open to Work
-📅 Present
+## 🟢 AI Projects 
 
-Month | ✨ Accomplishments
------------- | -------------
 1 | ⏲️ Global Mobility Intelligence Dashboard (https://glomointel.lovable.app) 
 
 ---
